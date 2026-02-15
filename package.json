@@ -1,0 +1,16 @@
+{
+  "name": "etidorhpa-client",
+  "version": "1.0.0",
+  "description": "Etidorhpa - Project renamed from Septerra",
+  "type": "module",
+  "scripts": {
+    "verify:nodecheck": "node --check src/main.js && node --check src/scenes/BootScene.js && node --check src/scenes/WorldScene.js && node --check src/client/input/InputModeStateMachine.js && node --check src/client/layout/ViewportLayoutManager.js && node --check src/client/ui/createUiShell.js"
+  },
+  "keywords": [
+    "etidorhpa",
+    "phaser",
+    "game"
+  ],
+  "author": "",
+  "license": "ISC"
+}
