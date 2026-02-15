@@ -1,0 +1,18 @@
+{
+  "skeletons": {
+    "character-pro": {
+      "json": "assets/etidorhpa/character-pro.json",
+      "atlas": "assets/etidorhpa/character-pro.atlas",
+      "textures": {
+        "1x": "assets/etidorhpa/1x/character-pro.webp",
+        "2x": "assets/etidorhpa/2x/character-pro.webp",
+        "fallback": "assets/etidorhpa/1x/character-pro.png"
+      }
+    }
+  },
+  "_meta": {
+    "version": "1.0.0",
+    "description": "Spine skeleton manifest for Etidorhpa project",
+    "notes": "TODO: Replace placeholder filenames with actual Spine export paths"
+  }
+}
